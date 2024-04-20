@@ -198,17 +198,3 @@ The Kruskal-Wallis rank sum test was conducted to assess the differences in BMI 
 Conclusion
 In conclusion, our analysis revealed several important insights regarding the relationships between predictor variables and health insurance charges. We found strong positive correlations between age, BMI, and the number of children with insurance charges. Additionally, smoking status emerged as a significant predictor, with smokers having substantially higher charges. Region and gender showed less pronounced associations with charges. Furthermore, our chi-square tests indicated significant associations between smoking status and gender, while other demographic factors showed no significant relationships. Overall, these findings contribute to a better understanding of the factors influencing health insurance charges, which is crucial for informed decision-making in healthcare policy and practice.
 
-References
-1.	R Core Team (2021). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria.
-This reference provides information about the R programming language, which was used for data analysis and visualization.
-2.	Wickham, H. (2016). ggplot2: Elegant Graphics for Data Analysis. Springer.
-This book by Hadley Wickham serves as a comprehensive guide to creating visualizations using the ggplot2 package in R.
-3.	Zeileis, A., Hothorn, T. (2002). Diagnostic checking in regression relationships. R News, 2(3), 7-10.
-This source discusses diagnostic checks and tests for regression models, which may be relevant for assessing assumptions in regression analyses.
-4.	Crawley, M. J. (2012). The R Book. John Wiley & Sons.
-The R Book by Michael J. Crawley is a valuable resource for various statistical analyses using R, including regression modeling and hypothesis testing.
-5.	Fox, J., Weisberg, S. (2018). An R Companion to Applied Regression. Sage Publications.
-This book provides additional insights and guidance on regression analysis using R.
-
-
-![image](https://github.com/Austinyeah/Health_data_analysis/assets/57567966/6ee4ce89-9262-44cd-bdc7-e6327bc600b4)
